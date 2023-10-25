@@ -5,4 +5,6 @@ const artistsAndSongs = {
     "Twice": ["What is Love?"],
 }
 
+artistsAndSongs["Twice"].push("Cheer Up");
+
 console.log(artistsAndSongs);
